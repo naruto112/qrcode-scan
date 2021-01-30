@@ -1,0 +1,12 @@
+{
+  "name": "qrcode-scan",
+  "displayName": "qrcode-scan",
+  "expo": {
+    "name": "qrcode-scan",
+    "slug": "qrcode-scan",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
